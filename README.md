@@ -16,5 +16,5 @@ I have been doing this long enough to know that the hard problems in software ar
 
 **Connect:**
 - [LinkedIn](https://linkedin.com/in/sscoble)
-- *The Soil Beneath the Code* ([Amazon](https://a.co/d/0bRKZeUV))
+- *The Soil Beneath the Code* ([Amazon](https://a.co/d/0226o4Hg))
 - *A Walk in Mentoring* ([Amazon](https://a.co/d/0bRKZeUV))
